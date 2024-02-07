@@ -1,0 +1,24 @@
+{
+  "course": [
+    {
+      "id": "101",
+      "name": "Java",
+      "level": "Easy",
+      "description": "Fullstack java",
+      "batch": "Core java",
+      "time": "12:25",
+      "date": "2024-02-08",
+      "sir": " Om"
+    },
+    {
+      "id": "102",
+      "name": "Python",
+      "level": "Hard",
+      "description": "Fullstack python",
+      "batch": "core python",
+      "date": "2024-02-08",
+      "time": "22:23",
+      "sir": " Rohit"
+    }
+  ]
+}

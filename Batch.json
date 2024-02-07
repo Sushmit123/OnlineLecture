@@ -1,0 +1,18 @@
+{
+  "Batch": [
+    {
+      "id": "102",
+      "day" : "12-2-24",
+      "time" : "12:30",
+      "batchname" : "corejava",
+      "sirname" : "rohit"
+    },
+    {
+      "id": "102",
+      "day" : "12-2-24",
+      "time" : "12:30",
+      "batchname" : "corejava",
+      "sirname" : "rohit"
+    }
+  ]
+}
